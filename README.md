@@ -3,13 +3,13 @@ A collection of Wizard applications and productivity enhancement tools including
 
 * Anchor Editor
 
-* DataEnvironment Builder
-
 * Application Wizard
 
-* Form Wizard
+* CursorAdapter and DataEnvironment Builders
 
 * Documenting Wizard
+
+* Form Wizard
 
 * Graph Wizard
 
@@ -23,9 +23,9 @@ A collection of Wizard applications and productivity enhancement tools including
 
 * Report Wizard
 
-* Table Wizard
-
 * SQL Server Upsizing Wizard (NOTE: [Sedna's version](https://github.com/UpsizingWizard) supersedes this)
+
+* Table Wizard
 
 * Web Publishing Wizard 
 
